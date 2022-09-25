@@ -8,7 +8,7 @@
 <ul >
 <li> 👋 Hi, I’m @SayarB </li>
 <li> 👀 I’m interested in Software and Web Development </li>
-<li> 🌱 I’m currently learning Machine Learning < /li>
+<li> 🌱 I’m currently learning Machine Learning </li>
 <li> 📫 How to reach me Email: sayarbhattacharyya03@gmail.com </li>
 </ul>
 </div>
